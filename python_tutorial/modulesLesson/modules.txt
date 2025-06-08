@@ -1,0 +1,9 @@
+# Modules - is an extra python code kept in the cloud that 
+# we can import into our code to use in our projects with pre-programmed functions
+
+
+
+
+
+
+# stopped 06:02:20
